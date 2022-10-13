@@ -1,33 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head> 
-	<link rel="stylesheet" href="styling.css"/>
-</head>
+## Hey, I'm Daniel  <img src="images/waving.gif" alt="waving hand" width="28px" height="28px"> 
 
-<h2>Hey, I'm Daniel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h2>
+## Check out some of my favorite projects! 
 
-<h1> Check out some of my favorite projects! </h1>
+[![LinkeIn](https://img.shields.io/badge/Daniel_Wang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielwang04/) [![Email](https://img.shields.io/badge/-daniel.wang@focusyouth.ca-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:daniel.wang@focusyouth.ca)
 
-<body>
-<div class="parent">
-	<div class="child">
-		<a href="https://www.linkedin.com/in/danielwang04/">
-			<img src="https://img.shields.io/badge/Daniel_Wang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwang04/" alt="LinkedIn" >
-		</a>
-	</div>
-	<div class="child">
-		<a href="mailto:daniel.wang@focusyouth.ca">
-			<img src="https://img.shields.io/badge/-daniel.wang@focusyouth.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=smailto:daniel.wang@focusyouth.ca" alt="Gmail" >
-		</a>
-	</div>
-</div>
-</body>
-</html>
-
-
-
-
-
+<br>
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wang-design">
 
@@ -86,13 +63,13 @@
 	
  ```
  
-<h2>Current Works</h2>
+## Current Works
 
  * Started learning Google Admin API
  * Currently working on building websites (and learning more HTML, CSS, and JS)
  * Looking for summer co-op (2023)
  
-<h2>Other Stuff</h2>
+## Other Stuff
 
 [My Resume (coming soon!)](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing) | [My Website (coming soon!)](daniel-wang-design.github.io) | [Support my cause!](https://www.canadahelps.org/en/charities/focus-youth-organization/)
 

@@ -9,7 +9,7 @@
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wang-design">
 
 ## Favorite Programming Languages
-<img src="images/java.png" width="35"/><img src="images/dart.png" width="110"/><img src="images/python.png" width="35"/> <img src="images/html.png" width="35"/><img src="images/javascript.png" width="35"/><img src="images/css.png" width="35"/>
+<img src="images/java.png" width="35"/><img src="images/dart.png" width="35"/><img src="images/python.png" width="35"/> <img src="images/html.png" width="35"/><img src="images/javascript.png" width="35"/><img src="images/css.png" width="35"/>
 
 <br></br> 
 
@@ -19,7 +19,7 @@
 <br></br> 
 
 ## Favorite APIs/SDKs
-<img src="images/flutter.png" width="30"/><img src="images/javafx.png" width="110"/><img src="images/arcade.png" width="40"/><img src="images/slack-api.png" width="110"/>
+<img src="images/flutter.png" width="30"/><img src="images/javafx.png" width="110"/><img src="images/arcade.png" width="40"/><img src="images/slack-api.png" width="35"/>
 
  <br></br> 
 

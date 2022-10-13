@@ -8,13 +8,10 @@
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wang-design">
 
-<h2>Favorite Programming Languages</h2>
-<img src="images/java.png" width="35"/>
-<img src="images/dart.png" width="110"/>
-<img src="images/python.png" width="35"/> 
-<img src="images/html.png" width="35"/>
-<img src="images/javascript.png" width="35"/>
-<img src="images/css.png" width="35"/>
+## Favorite Programming Languages
+![Java](images/java.png =35x)
+
+<img src="images/java.png" width="35"/><img src="images/dart.png" width="110"/><img src="images/python.png" width="35"/> <img src="images/html.png" width="35"/><img src="images/javascript.png" width="35"/><img src="images/css.png" width="35"/>
 
 <br></br> 
 

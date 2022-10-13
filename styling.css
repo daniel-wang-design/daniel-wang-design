@@ -1,0 +1,19 @@
+.parent {
+  margin: 1rem;
+  align: left;
+}
+.child {
+  display: inline-block;
+  vertical-align: top;
+}
+
+h2 {
+  color: blue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

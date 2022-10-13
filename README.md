@@ -9,28 +9,21 @@
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wang-design">
 
 ## Favorite Programming Languages
-![Java](images/java.png =35x)
-
 <img src="images/java.png" width="35"/><img src="images/dart.png" width="110"/><img src="images/python.png" width="35"/> <img src="images/html.png" width="35"/><img src="images/javascript.png" width="35"/><img src="images/css.png" width="35"/>
 
 <br></br> 
 
-<h2>Favorite IDEs</h2>
-<img src="images/netbeans.png" width="35"/><img src="images/apache-netbeans.png" width="30"/>
-<img src="images/vscode.png" width="35"/>
-<img src="images/pycharm.png" width="35"/>
+## Favorite IDEs
+<img src="images/netbeans.png" width="35"/><img src="images/apache-netbeans.png" width="30"/><img src="images/vscode.png" width="35"/><img src="images/pycharm.png" width="35"/>
 
 <br></br> 
 
-<h2>Favorite APIs/SDKs</h2>
-<img src="images/flutter.png" width="30"/>
-<img src="images/javafx.png" width="110"/>
-<img src="images/arcade.png" width="40"/>
-<img src="images/slack-api.png" width="110"/>
+## Favorite APIs/SDKs
+<img src="images/flutter.png" width="30"/><img src="images/javafx.png" width="110"/><img src="images/arcade.png" width="40"/><img src="images/slack-api.png" width="110"/>
 
  <br></br> 
 
- <h2>More About Me!</h2>
+ ## More About Me!
 
  ```java
  package io.github.daniel-wang-design;

@@ -21,14 +21,13 @@
  package io.github.daniel-wang-design;
 
  public class Daniel {
+	
 	public Daniel() {
 		List<Hobby> hobbies = new ArrayList<>();
 		hobbies.add(new Hobby("Guitar", new start(2016)))
 		hobbies.add(new Hobby("Sports/excercise", new start(2012)))
 		hobbies.add(new Hobby("Charity work, FOCUS Youth Organization", 
 		                       new start(2018)))
-
-
 	}
 
 	private University getEducation() {
@@ -38,6 +37,7 @@
 			new GradYear(2027)
 		);
 	}
+	
 	private String getCountry() {
 		return "Canada";
 	}

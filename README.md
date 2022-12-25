@@ -12,7 +12,7 @@
 ## Favorite IDEs
 <img src="images/netbeans.png" width="35"/><img src="images/apache-netbeans.png" width="30"/><img src="images/vscode.png" width="35"/><img src="images/pycharm.png" width="35"/>
 
-## Some APIs/SDKs I've Enjoyed Using
+## Some SDKs I've Enjoyed Using
 <img src="images/flutter.png" width="30"/><img src="images/javafx.png" width="110"/><img src="images/arcade.png" width="40"/><img src="images/slack-api.png" width="35"/><img src="images/bolt.svg" width="35"/>
 
  ## More About Me!

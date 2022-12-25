@@ -2,7 +2,7 @@
 
 ## Check out some of my favorite projects! 
 
-[![LinkeIn](https://img.shields.io/badge/Daniel_Wang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielwang04/) [![Email](https://img.shields.io/badge/-daniel.wang@focusyouth.ca-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:daniel.wang@focusyouth.ca)
+[![LinkeIn](https://img.shields.io/badge/Daniel_Wang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielwang04/) [![Email](https://img.shields.io/badge/-daniel.wang04@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:daniel.wang04@hotmail.ca)
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-wang-design">
 
